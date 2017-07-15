@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Gather action="https://kunsachdeva.github.io/dipper/twilio.xml" method="GET" numDigits="1">
+    <Gather action="http://kunalsachdeva.azurewebsites.net/twilio/1.php" method="GET" numDigits="1">
         <Say voice="alice">Welcome!</Say>
         <Play>http://www.geocities.ws/juliardactub/resources/Martin%20Garrix%20-%20Animals%20(Original%20Mix).mp3</Play>
     </Gather>
