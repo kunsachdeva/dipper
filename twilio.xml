@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Say voice="alice">Thanks for trying our documentation. Enjoy!</Say>
-    <Play>http://www.geocities.ws/juliardactub/resources/Martin%20Garrix%20-%20Animals%20(Original%20Mix).mp3</Play>
+    <Gather action="https://kunsachdeva.github.io/dipper/twilio.xml" numDigits="1">
+        <Say voice="alice">Welcome!</Say>
+        <Play>http://www.geocities.ws/juliardactub/resources/Martin%20Garrix%20-%20Animals%20(Original%20Mix).mp3</Play>
+    </Gather>
 </Response>
